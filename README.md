@@ -1,12 +1,6 @@
 # BlackJack
 Black Jack implemented in C++
 
-// ********************************
-// Title: A command-line blackjack game using C++
-// Author: Saad Sadiq
-// Date: June 28th, 2019
-// *********************************
-
 # Basic Overview 
 The program implements the game BlackJack. In this game, the dealer deals a Single Deck that is shuffled after every 6th game. The code plays as the dealer, and the user play through the command line against the dealer. All the player decisions are taken by the user and not the program. The program keeps the score for the player wins and player win percentage.
 
