@@ -4,6 +4,8 @@ Black Jack implemented in C++
 # Basic Overview 
 The program implements the game BlackJack. In this game, the dealer deals a Single Deck that is shuffled after every 6th game. The code plays as the dealer, and the user play through the command line against the dealer. All the player decisions are taken by the user and not the program. The program keeps the score for the player wins and player win percentage.
 
+![alt-text](https://github.com/msaadsadiq/BlackJack/blob/master/blackjack.png)
+
 # Assumptions, Rules and Shortcomings
 1. The program doesn't offer any betting or reward system. Thus there is no option to double down. 
 2. Also, there is no option for players to split cards. 
@@ -15,6 +17,7 @@ The program implements the game BlackJack. In this game, the dealer deals a Sing
 
 # Third Party Resources
 I didn't have prior knowledge of the game BlackJack and I don't know C++. So I used the following third party websites to learn about BlackJack and C++. 
+
  
 BlackJack
 https://www.arkadium.com/games/blackjack/
